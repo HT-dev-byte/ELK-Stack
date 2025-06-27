@@ -15,9 +15,6 @@ This project sets up the full ELK Stack (Elasticsearch, Logstash, Kibana, Filebe
 - Custom Resource Definitions (CRDs) used for Elastic Operator
 - Sample Filebeat configuration to ship logs
 
-## 📸 Screenshots
-_(Add screenshots of Kibana dashboards, Discover tab, etc.)_
-
 ## ⚙️ How to Deploy
 
 ```bash
